@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+._*
+
+# Exports and local test media (keep your photos and videos out of the repo)
+*.mp4
+*.webm
+*.mov
+/photos/
+/test/
+
+# Editors
+.vscode/
+.idea/
+*.swp
